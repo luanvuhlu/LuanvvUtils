@@ -1,7 +1,7 @@
 /*
  *
  */
-package com.luanvv.text;
+package com.luanvv.utils.text;
 
 import com.google.common.base.Strings;
 
