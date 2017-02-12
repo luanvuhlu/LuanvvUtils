@@ -23,6 +23,10 @@ public class StringUtils {
 		return Strings.isNullOrEmpty(txt);
 	}
 
+	public static boolean isNotEmpty(String txt){
+		return !isEmpty(txt);
+	}
+
 	/**
 	 * Checks if is obj toString empty.
 	 *
